@@ -2,4 +2,4 @@
 
 _(Created by Andriy Stadnik)_
 
-This lab is related to learning Git, so be loyal for some of the nuances. 
+This lab's related to learning Git, so be loyal for some of the nuances. 
